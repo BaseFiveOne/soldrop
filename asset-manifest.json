@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/soldrop/static/js/main.df16f869.js",
+    "static/js/453.8420ece1.chunk.js": "/soldrop/static/js/453.8420ece1.chunk.js",
+    "index.html": "/soldrop/index.html",
+    "main.df16f869.js.map": "/soldrop/static/js/main.df16f869.js.map",
+    "453.8420ece1.chunk.js.map": "/soldrop/static/js/453.8420ece1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.df16f869.js"
+  ]
+}
