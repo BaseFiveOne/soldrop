@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.js": "/soldrop/static/js/main.a9c08579.js",
-    "static/js/453.8420ece1.chunk.js": "/soldrop/static/js/453.8420ece1.chunk.js",
+    "main.css": "/soldrop/static/css/main.b83d9144.css",
+    "main.js": "/soldrop/static/js/main.e16d940e.js",
+    "static/js/453.c6b55b20.chunk.js": "/soldrop/static/js/453.c6b55b20.chunk.js",
     "index.html": "/soldrop/index.html",
-    "main.a9c08579.js.map": "/soldrop/static/js/main.a9c08579.js.map",
-    "453.8420ece1.chunk.js.map": "/soldrop/static/js/453.8420ece1.chunk.js.map"
+    "main.b83d9144.css.map": "/soldrop/static/css/main.b83d9144.css.map",
+    "main.e16d940e.js.map": "/soldrop/static/js/main.e16d940e.js.map",
+    "453.c6b55b20.chunk.js.map": "/soldrop/static/js/453.c6b55b20.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a9c08579.js"
+    "static/css/main.b83d9144.css",
+    "static/js/main.e16d940e.js"
   ]
 }
